@@ -1,0 +1,9 @@
+party_id,name,ipi,party_type
+P001,María López,00123456789,composer
+P002,Ana Torres,00111111111,composer
+P003,Carlos Vega,00222222222,composer
+P004,Heaven Publishing,00333333333,publisher
+P005,John Smith,,composer
+P006,Lucía Andrade,00444444444,composer
+P007,Northern Songs Ltd,00555555555,publisher
+P008,Diego Mora,00666666666,composer

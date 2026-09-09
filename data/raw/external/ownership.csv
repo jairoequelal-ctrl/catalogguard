@@ -1,0 +1,11 @@
+work_id,party_id,role,ownership_share
+E101,Q101,composer,100
+E102,Q102,composer,50
+E102,Q103,composer,30
+E102,Q104,publisher,20
+E103,Q105,composer,100
+E104,Q106,composer,70
+E104,Q107,publisher,30
+E105,Q108,composer,100
+E106,Q109,composer,100
+E107,Q102,composer,100
