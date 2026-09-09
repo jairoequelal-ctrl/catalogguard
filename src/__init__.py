@@ -1,0 +1,1 @@
+"""CatalogGuard package."""

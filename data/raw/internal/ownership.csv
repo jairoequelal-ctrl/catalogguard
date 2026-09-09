@@ -1,0 +1,11 @@
+work_id,party_id,role,ownership_share
+I001,P001,composer,100
+I002,P002,composer,50
+I002,P003,composer,30
+I002,P004,publisher,20
+I003,P005,composer,100
+I004,P006,composer,70
+I004,P007,publisher,20
+I005,P008,composer,100
+I006,P008,composer,100
+I007,P002,composer,100
