@@ -1,0 +1,31 @@
+rules:
+  - id: DQ001
+    name: Missing ISWC
+    severity: MEDIUM
+  - id: DQ002
+    name: Missing IPI
+    severity: MEDIUM
+  - id: DQ003
+    name: Invalid ownership total
+    severity: HIGH
+  - id: DQ004
+    name: Duplicate work
+    severity: HIGH
+  - id: DQ005
+    name: Conflicting publisher
+    severity: HIGH
+  - id: DQ006
+    name: Conflicting identifier
+    severity: CRITICAL
+  - id: DQ007
+    name: Possible fuzzy duplicate
+    severity: MEDIUM
+  - id: DQ008
+    name: Work missing from external catalog
+    severity: MEDIUM
+  - id: DQ009
+    name: Work missing from internal catalog
+    severity: MEDIUM
+  - id: DQ010
+    name: Composer-name inconsistency
+    severity: LOW
